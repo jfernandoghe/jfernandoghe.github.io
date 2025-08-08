@@ -58,7 +58,7 @@ Tutor: _Ricardo Perez-Alcocer_ – [rrperez@citedi.mx](mailto:rrperez@citedi.mx)
 ## Profesional experience
 
  - (2025 to date) **Lecturer assistant** Lecturer for ITESM-GDA for Mechatronics faculty, lecturing on Mechatronics and Biomedical engineering bachelor's.  <br/>
- - (2024 to 2025) **Consultant Freelancer** Consultancy and development of multidisciplinary projects focused on dashboards, machine learning and forecasting.  <br/>
+ - (2024 to 2025) **Freelancer Engineer** Consultancy and development of multidisciplinary projects focused on dashboards, machine learning and forecasting.  <br/>
  - (2020 to 2024) **Early stage researcher** ESR for Universté de Strasbourg as a doctoral student.
  - (2019 to 2020) **Research asistant** _Center for Mathematical Research_ Data analysis and academic paper writting.  <br/>
  - (2019 to 2020) **Consultant Freelancer** Consultancy and development of multidisciplinary projects focused on computer-aided design, hardware prototyping, programming and
@@ -68,16 +68,19 @@ software development; in both industry and academic fields.  <br/>
 and guide health practitioners into robot add-ons.  <br/>
 
 
-## Talks
+## Talks, workshops and seminars
 
- - (2019) _Statistical model selectors based on Parsimony Principle_, Mechatronics Week - IPN  <br/>
- - (2018) _A Coordinated Wilderness Search and Rescue Technique Inspired by Bacterial Foraging Behaviour_, 2018 IEEE International Conference 
-on Robotics and Biomimetics (ROBIO), Kuala Lumpur, December  <br/>
- - (2018) _Computational geometric approach to eye movement comparison_, Human-Centered Computing Meet Up - CIMAT  <br/>
-
-## Workshops and Seminars
-
- - (2019) _Python, Reinforcement Learning and Markov decision process_. Mechatronics Week - IPN
+- 2023: _Semi-autonomous control for endoluminal robotic platforms_ In Computer and Robot-Assisted Surgery (CRAS), Paris, France, September 2023.
+- 2022: _Autonomous image-guided control of endoscopic orientation for OCT scanning_. In CRAS, Naples, Italy, avril 2022.
+- 2023: _Assisting users during complex endoluminal procedures in robotic platforms_, ICube PhD student meetings, UNISTRA, France.
+- 2021: _Semi-automatic task in complex endoluminal platforms_, RAS meetings, KU Leuven, Belgium.
+- 2021: _Journal club_: Active constraints/virtual fixtures: A survey By Stuart A. Bowyer, Brian L. Davies and Ferdinando Rodriguez y Baena, Online, UNISTRA, France.
+- 2020: _Automation on robotic endoscopes_, ICube PhD student meetings, UNISTRA, France.
+- 2018: _Sensor fusion for task-load assessments of HMI while driving_, UofGlasgow, Scotland.
+- 2018: _Statistical model selectors based on Parsimony Principle_, Mechatronics Week, IPN, Mexico.
+- 2018: _A Coordinated Wilderness Search and Rescue Technique Inspired by Bacterial Foraging Behaviour_, 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO), Malaysia.
+- 2018: _Computational geometric approach to eye movement comparison_, Human-Centred Computing Meet Up, CIMAT, Mexico.
+- 2019: _Python, Reinforcement Learning and Markov decision process_. Mechatronics Week - IPN
 
 ## Awards, scholarships, and academic positions
 
@@ -85,3 +88,13 @@ on Robotics and Biomimetics (ROBIO), Kuala Lumpur, December  <br/>
  - Elected as president of the Robotics Club from 2014 to 2015; organising, as team leader, the Robogames 2015.   <br/>
  - Awarded with tuition from 2010-2015 for the BSc in Mechatronics at IPN.   <br/>
  - Awarded as technological development from the State Science & Technology Council Zacatecas, 2014.  <br/>
+
+
+## Courses and Certifications
+
+- P4H Bionics Online Academy, 2025, Introduction to bionic prostheses P4H ID: 25ENEPRBIOP4H0117
+- UNAM, 2017, “Data Science: Statistic programming with R” Coursera: CCNFW56NXWJE
+- Tenaris University, 2014, “Computer Numeric Control” edX: 2d6f4b30c3514192b13455141c8efa23
+- Problem Solving (Intermediate) Certificate HackerRank: 9927a0d3cdc0
+- SQL (Intermediate) Certificate HackerRank: 63492e2c6ab5
+- Python (Intermediate) Certificate HackerRank: 2e9cb0221262
