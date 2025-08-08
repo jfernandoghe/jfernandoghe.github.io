@@ -1,5 +1,4 @@
 # About Me
-Fernando Gonzalez Herrera
 
 ![alt text](/img/5.jpg| width=200)
 
