@@ -1,6 +1,6 @@
 # About Me
 
-![alt text](/img/5.jpg| width=200)
+![alt text](/img/5.jpg|width=200)
 
 ## Contact info
 Personal email: [jfernandoghe <code>@</code> gmail.com](mailto:jfernandoghe@gmail.com)<br/>
