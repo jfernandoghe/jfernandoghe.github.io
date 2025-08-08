@@ -15,7 +15,6 @@ LinkedIn: [www.linkedin.com/jfernandoghe](www.linkedin.com/jfernandoghe)<br/>
 
 ## Sections
 [Projects](./projects.md) <br/>
-[Projects](./projects.md) <br/>
 
 ---
 
