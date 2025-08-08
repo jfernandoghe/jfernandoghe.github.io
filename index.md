@@ -1,7 +1,7 @@
 # About Me
 
 
-<img src="/img/5.jpg" width="100">
+<img src="/img/5.jpg" width="200">
 
 ## Contact info
 Personal email: [jfernandoghe <code>@</code> gmail.com](mailto:jfernandoghe@gmail.com)<br/>
