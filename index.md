@@ -10,13 +10,10 @@ ORCID: [0000-0003-2312-2724](https://orcid.org/0000-0003-2312-2724)<br/>
 LinkedIn: [www.linkedin.com/jfernandoghe](www.linkedin.com/jfernandoghe)<br/>
 
 ## Downloads
-[Resume](https://drive.google.com/open?id=1MjT7buObLuxS0spgaMFCNNevxSb84w-J)<br/>
-[CV](https://drive.google.com/open?id=1V2aKQaSAQyJTxEN1-qNlbxJqUreyVMp3)<br/>
-[Presentations](./ppt.md) <br/>
+[CV](https://drive.google.com/file/d/1RasnNa9TeisQ60a0sZcdTNjQCIsrbTNU/view?usp=drive_link)<br/>
 
 ## Sections
 [Projects](./projects.md) <br/>
-[Extra info](./extra.md) <br/>
 
 ---
 
@@ -41,9 +38,18 @@ Thesis: _“Design and implementation of a smart band prototype for the gestural
 Tutor: _Ricardo Perez-Alcocer_ – [rrperez@citedi.mx](mailto:rrperez@citedi.mx)
 
 ## Publications
-- Jimenez, Francisco, Gonzalez-Herrera, Fernando, and Lara-Alvarez, Carlos, _“A  Coordinated  Wilderness  Search  and  Rescue  Technique  Inspired  by  Bacterial  For-aging  Behavior”_,  2018  IEEE  International  Conference  on  Robotics  and  Biomimetics (ROBIO), Kuala Lumpur, 2018.  [0.1109/ROBIO.2018.8665267](https://ieeexplore.ieee.org/document/8665267) _Accepted_
+
+- Wu, D., Zhang, R., Pore, A., Dall’Alba, D., Ha, X. T., Li, Z., **Herrera, F.**, ... & Vander Poorten, E. (2024). A review on machine learning in flexible surgical and interventional robots: Where we are and where we are going. Biomedical Signal Processing and Control, 93, 106179.
+
+- **Gonzalez-Herrera, F.**, Nageotte, F., Zanne, P., Borghesan, G., de Mathelin, M., Vander Poorten, E., & Rosa, B. (2024). A Semi-Autonomous Control Mode for Flexible Steerable Intraluminal Platforms. IEEE Transactions on Medical Robotics and Bionics, 6(3), 839-850.
+
+- **Herrera, J. F. G.**, Nageotte, F., Borghesan, G., Vander Poorten, E., & Rosa, B. (2023). Semi-autonomous control for endoluminal robotic platforms. In Computer and Robot-Assisted Surgery (CRAS), Paris, France, septembre 2023.
+
+- Liao, G., **Herrera, F. G.**, Zhang, Z., Pore, A., Sestini, L., Sahu, S. K., ... & Gora, M. J. (2022, May). Autonomous OCT volumetric scanning with robotic endoscope. In Clinical Biophotonics II (p. PC1214602). SPIE.
+
+- **Herrera, J. F. G.**, Pore, A., Sestini, L., Sahu, S. K., Liao, G., Zanne, P., ... & Gora, M. (2022). Autonomous image guided control of endoscopic orientation for OCT scanning. In CRAS, Naples, Italy, avril 2022.
+
+- Francisco, J.,** Fernando, G. H.**, & Carlos, L. A. (2018, December). A coordinated wilderness search and rescue technique inspired by bacterial foraging behavior. In 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO) (pp. 318-324). IEEE. [0.1109/ROBIO.2018.8665267](https://ieeexplore.ieee.org/document/8665267) _Accepted_
   
-- Gonzalez-Herrera,  Fernando  and  Lara-Alvarez,  Carlos, _“TTesting Robust Polynomial Models for Eye Tracker Calibration”_,  Behavior Research Methods, 2019. _Under correction_
-  
-- Gonzalez-Herrera, Fernando, _“Internal maintenance guide for tele-presence health robot”_, Zacatecas Health Services, 2015. _Accepted - Internal_
+- Lara-Alvarez, C., & **Gonzalez-Herrera, F**. (2020). Testing multiple polynomial models for eye-tracker calibration. Behavior Research Methods, 52(6), 2506-2514.
 
