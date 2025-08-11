@@ -5,23 +5,20 @@
 ## Past projects
 ### PhD
 - **_Random forest classifier_**  Python, Pandas, Numpy, Scipy, Scikit Learn, Keras January 2023 - September 2023 
- - Random forest classifier (RFC) using handcrafted semantic-based features for the detection of events of interest in robot state time series.
- - RFC is evaluated in an online setup, and a 0.81 area under the curve (AoC) is achieved using random time selection.
+  - Random forest classifier (RFC) using handcrafted semantic-based features for the detection of events of interest in robot state time series.
+  - RFC is evaluated in an online setup, and a 0.81 area under the curve (AoC) is achieved using random time selection.
 - **_Autonomous navigation of a robotic endoscope_**  Python, ROS, DNN, OpenCV October 2021 - May 2022 
- - Integration of OCT and visual feedback for autonomous colonoscopic navigation.
- - Orchestration of multiple PCs for autonomous navigation in a physical colon model.
+  - Integration of OCT and visual feedback for autonomous colonoscopic navigation.
+  - Orchestration of multiple PCs for autonomous navigation in a physical colon model.
 - Robotic endoscope simulator  Python, VTK, TCP/IP October 2021 - May 2022
- - Vision-based simulator for robotic endoscope platforms that reads the state of a human-interface console using sockets.
- - Developed of semantic-based semi-automation approaches for complex surgical tasks.
+  - Vision-based simulator for robotic endoscope platforms that reads the state of a human-interface console using sockets.
+  - Developed of semantic-based semi-automation approaches for complex surgical tasks.
 - **_Dataset creation_**  Python, Pandas, Numpy, Plotly, Matplotlib February 2020 - January 2021
- - Manual data cleaning, exploratory data analysis, feature engineering, data preprocessing, and dataset documentation of a dataset
-of robot state kinematics for multiple surgical gestures.
+  - Manual data cleaning, exploratory data analysis, feature engineering, data preprocessing, and dataset documentation of a dataset of robot state kinematics for multiple surgical gestures.
 - **_Statistical model selection_**  Python, Scipy, Google Colab September 2018 - April 2019
- - Developed an algorithm to evaluate statistical models for eye-tracking calibration, reducing the complexity of the models at
-no expense in performance. The algorithm uses random sample consensus to perform statistical model selection, enabling high
-accuracy with no prior knowledge.
+  - Developed an algorithm to evaluate statistical models for eye-tracking calibration, reducing the complexity of the models at no expense in performance. The algorithm uses random sample consensus to perform statistical model selection, enabling high accuracy with no prior knowledge.
 - **_Heuristic algorithm_**  MATLAB February 2018 - August 2018
- - Developed a heuristic optimisation-based algorithm for search and rescue algorithm for aerial drones, achieving a reduction of 60% and 70% in time and distance in comparison to state-of-the-art methods. Tested in a virtual MATLAB simulation.
+  - Developed a heuristic optimisation-based algorithm for search and rescue algorithm for aerial drones, achieving a reduction of 60% and 70% in time and distance in comparison to state-of-the-art methods. Tested in a virtual MATLAB simulation.
 
 ### MSc
  - **_Robust calibration in eye tracking_** Several models of eye tracking calibration have been proposed; complex models need more information, causing a delay in in-use calibration. By following the Parsimony Principle -Occam's Razor- a simple yet accurate and precise calibration is obtained. <br/>
